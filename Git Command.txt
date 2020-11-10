@@ -1,0 +1,10 @@
+new project
+#git init
+#git add -A
+#git commit -m "Message"
+#repository link (3 link)
+
+Old Project push
+#git add -A
+#git commit -m"Message"
+#git push
